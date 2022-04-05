@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+body{
+    background-color: #7fffd475;
+ 
+}
+.full{
+    
+    
+}
+.full h2{
+    text-align: center;
+    margin: 50px 0;
+
+font-size: 40px;}
+.main_content{
+    background-color: aliceblue;
+    width:80%;
+    height: 700px;
+    margin-top: 4%;
+    margin-bottom: 10%;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 17px;
+    display: flex;
+overflow: hidden;}
+.right{
+    width: 50%;
+    background-color: rgb(151, 144, 144);
+    
+}
+.right h1{
+    text-align: center;
+    margin: 20px 0;
+    font-size: 40px;
+    font-family: sans-serif;
+    color: #335a55;
+    border-bottom: 2px solid;}
+.name{
+
+margin: 7px 20px;
+color: #0d4a4a;
+font-size: 33px;
+
+}
+.email{
+    margin: 10px 20px;
+    color: #0d4a4a;
+    font-size: 31px;
+    
+   
+}
+.phn{
+    margin: 5px 20px;
+    color: #0d4a4a;
+    font-size: 32px;
+
+}
+.msg{
+    margin: 10px 20px;
+    color: #0d4a4a;
+    font-size: 35px;
+
+}
+
+
+.left{
+    width: 50%;
+    background-color: darkslategray;
+    position: relative;
+    
+}
+.left img{
+    width: 100%;
+    height: 100%;
+}
+form input,textarea{
+    padding: 16px;
+    border: none;
+    background-color:#bbd8f8ab ;
+    border-bottom: #ffff;
+    width: 90%;
+    border-radius: 5px;
+}
+form input[type="submit"]{
+width: 33%;
+margin: 0 30%;
+background-color: #1a0808;
+font-size: 29px;
+font-weight: 600;
+color: antiquewhite;}
+
